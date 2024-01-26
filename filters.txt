@@ -1,0 +1,12 @@
+! 2023-12-21 https://www.bloomberg.com
+www.bloomberg.com###fortress-paywall-container-root
+
+! 2024-01-07 https://www.instagram.com
+www.instagram.com##._a9_9
+
+! 2024-01-15 https://rpishop.cz
+||im9.cz/css-v2/images/widget/left-zalozka-only-gold.png?1$image
+||ssl.heureka.cz/direct/i/widget.php?key=F40D3CFF0D286B8AABFB1F6183124F89&wt=21$subdocument
+
+ext-twitch.tv##.prime-extension-root
+
