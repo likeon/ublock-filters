@@ -9,4 +9,5 @@ www.instagram.com##._a9_9
 ||ssl.heureka.cz/direct/i/widget.php?key=F40D3CFF0D286B8AABFB1F6183124F89&wt=21$subdocument
 
 ext-twitch.tv##.prime-extension-root
+ext-twitch.tv##.muted-segments-alert__position-wrapper
 
