@@ -11,3 +11,14 @@ www.instagram.com##._a9_9
 ext-twitch.tv##.prime-extension-root
 ext-twitch.tv##.muted-segments-alert__position-wrapper
 
+wikipedia.org##.fundraising-banner
+wikipedia.org##.frbanner
+wikipedia.org##.centralNotice
+wikipedia.org##.cn-banner
+wikipedia.org##.mw-body-content > .mw-jump
+wikipedia.org##.banner-container
+wikipedia.org##.fundraising-container
+wikipedia.org##.fundraising
+wikipedia.org##.frb-inline
+wikipedia.org##.frb-message
+wikipedia.org##.cn-fundraising
