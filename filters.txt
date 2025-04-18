@@ -22,3 +22,5 @@ wikipedia.org##.fundraising
 wikipedia.org##.frb-inline
 wikipedia.org##.frb-message
 wikipedia.org##.cn-fundraising
+
+apnews.com##.bcpNotificationBarStickyBottom
