@@ -10,6 +10,7 @@ www.instagram.com##._a9_9
 
 ext-twitch.tv##.prime-extension-root
 ext-twitch.tv##.muted-segments-alert__position-wrapper
+twitch.tv##.front-page-carousel
 
 wikipedia.org##.fundraising-banner
 wikipedia.org##.frbanner
