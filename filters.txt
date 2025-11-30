@@ -28,4 +28,4 @@ wikipedia.org##.cn-fundraising
 apnews.com##.bcpNotificationBarStickyBottom
 
 ! homarr
-unraid:3000##.mantine-Indicator-indicator
+unraid##.mantine-Indicator-indicator
