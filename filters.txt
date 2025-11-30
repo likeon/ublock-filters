@@ -26,3 +26,6 @@ wikipedia.org##.frb-message
 wikipedia.org##.cn-fundraising
 
 apnews.com##.bcpNotificationBarStickyBottom
+
+! homarr
+unraid:3000##.mantine-Indicator-indicator
